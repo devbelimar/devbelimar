@@ -65,7 +65,7 @@ Estou sempre em busca de novos desafios que me permitam crescer profissionalment
 ## 🤝 Vamos Conectar?
 
 <p align="left">
-  <a href="/cdn-cgi/l/email-protection#5236372430373e3b3f332012373f333b3e7c313d3f">
+  <a href="mailto:belimarlourencobelimar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/devbelimar" target="_blank">
