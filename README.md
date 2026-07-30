@@ -52,17 +52,6 @@ Estou sempre em busca de novos desafios que me permitam crescer profissionalment
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbelimar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Belimar" />
-  </a>
-  <a href="https://github.com">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelimar&layout=compact&langs_count=6&theme=github_dark" alt="Idiomas mais usados por Belimar" />
-  </a>
-</p>
-
 ---
 
 ## 🤝 Vamos Conectar?
