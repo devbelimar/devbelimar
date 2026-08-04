@@ -1,31 +1,31 @@
-<h1 align="center">Olá, sou o Dev Belimar 👋</h1>
+<h1 align="center">Hi, I'm Dev Belimar 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais e funcionais.</em>
+  <em>Full Stack Developer and Cybersecurity Student passionate about turning ideas into digital and functional solutions.</em>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devbelimar&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20oportunidades-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um desenvolvedor Full Stack com foco em criar aplicações web completas — desde a interface visual até à lógica do servidor. Acredito que um bom código não é apenas funcional, mas também limpo, organizado e fácil de manter.
+I am a Full Stack Developer focused on building complete web applications — from the visual interface to server-side logic. I believe good code is not only functional, but also clean, organized, and easy to maintain.
 
-Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e contribuir com soluções de valor real.
+I am always seeking new challenges that allow me to grow professionally and contribute value-driven solutions.
 
 - 🌍 **Angola**
-- 🔭 Atualmente a trabalhar em projetos web Full Stack
-- 📚 Em constante aprendizagem e evolução
-- 💼 **Aberto a novas oportunidades e colaborações**
-- 📬 Disponível para **freelance** e projetos profissionais
+- 🔭 Currently working on Full Stack web projects
+- 📚 Constantly learning and evolving
+- 💼 **Open to new opportunities and collaborations**
+- 📬 Available for **freelance** work and professional projects
 
 ---
 
-## 🛠️ Skills & Tecnologias
+## 🛠️ Skills & Technologies
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,10 +38,10 @@ Estou sempre em busca de novos desafios que me permitam crescer profissionalment
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🗄️ Base de Dados
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Ferramentas
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,12 +49,17 @@ Estou sempre em busca de novos desafios que me permitam crescer profissionalment
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EC1?style=for-the-badge&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
----
-
-## 🤝 Vamos Conectar?
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="mailto:belimarlourencobelimar@gmail.com">
@@ -71,6 +76,5 @@ Estou sempre em busca de novos desafios que me permitam crescer profissionalment
 ---
 
 <p align="center">
-  <em>"Código bem escrito é a melhor documentação"
-  </em>
-</p>  
+  <em>"Well-written code is the best documentation"</em>
+</p>
